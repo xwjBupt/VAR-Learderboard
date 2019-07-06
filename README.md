@@ -10,7 +10,7 @@
 |[Two-Stream Convolutional Networks for Action Recognition in Videos@NIPS2014](https://arxiv.org/pdf/1406.2199.pdf ) |88%|59.4%|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[Beyond Short Snippets: Deep Networks for Video Classification@CVPR2015](https://arxiv.org/pdf/1503.08909.pdf ) |88.6%|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[Convolutional Two-Stream Network Fusion for Video Action Recognition@CVPR2016](https://arxiv.org/pdf/1604.06573.pdf ) |92.5%|65.4%|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-
+|[Convolutional Two-Stream Network Fusion for Video Action Recognition@CVPR2016](https://arxiv.org/pdf/1604.06573.pdf ) |92.5%|65.4%|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
 
 
